@@ -16,7 +16,12 @@ This repository contains a Python-based Hangman game where players guess the nam
 1. Clone the repository.  
 2. Run the script.  
 3. Guess letters within the allowed attempts to reveal the country name.  
- 
+
+##Notes:
+1. This game contains 6 Lives
+2. It prints the hangman piture from hanging rope to fully hanged man.
+3. If you lose the man is hanged to rope and if you win then man is still alive.
+   
 Feel free to fork, enhance, or contribute to this project!  
  
 ---
