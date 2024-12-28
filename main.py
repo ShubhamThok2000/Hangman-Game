@@ -99,5 +99,6 @@ while game_over != True:
     if "_" not in display:
         game_over = True
         print("you win")
-        
+
+    #Pint Hang-man Piture    
     print(stages[Life])
